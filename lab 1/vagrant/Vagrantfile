@@ -5,7 +5,7 @@ Vagrant.require_version ">= 1.6"
 
 boxes = [
 	{ name: "WEB1",
-	  box: "ubuntu/impish64",
+	  box: "ubuntu/jammy64",
 	  ram: "1024",
 	  cpus: "2",
 	  guesttype: "ubuntu",
